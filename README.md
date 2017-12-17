@@ -5,4 +5,4 @@ Frame is made from birch plywood 1inch thick
 
 Cut using laser cutter at Noisebridge.
 
-M5, M8, M10 rods
+M5, M8, M10 rods - 1m each
