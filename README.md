@@ -24,3 +24,5 @@ M190 S[first_layer_bed_temperature] ; set bed temp
 First layer:
 - Set first layer temperature to 215C for PLA
 - Bed temperature 60C
+- Set first layer height to 0.35mm
+- Set first layer extrusion width to 200%
