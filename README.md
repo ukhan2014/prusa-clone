@@ -20,3 +20,7 @@ M83 ; extruder relative mode
 M109 S[first_layer_temperature] ; set extruder temp
 M190 S[first_layer_bed_temperature] ; set bed temp
 ```
+
+First layer:
+- Set first layer temperature to 215C for PLA
+- Bed temperature 60C
